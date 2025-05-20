@@ -1,7 +1,7 @@
 # EX.NO 3 : Correlation and regression for data analysis
-## Name : Ezhilarasi N
-## Register No : 212224040088
-## Date : 28.03.2025
+### Name : Ezhilarasi N
+### Register No : 212224040088
+### Date : 28.03.2025
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
